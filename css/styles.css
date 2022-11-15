@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+  color: #40514E;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625REM;
+  margin: 50 auto 0 auto;
+  font-family: cursive;
+}
+
+h2 {
+  color: #F49D1A;
+  font-size: 2.5rem;
+  font-family: 'Merienda', cursive;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Charm', cursive;
+  font-size: 2rem;
+}
+
+.top-container {
+  background-color: #C3F8FF;
+  text-align: center;
+  position: relative;
+  padding-top: 300px;
+}
+
+.name {
+  font-family: 'Great Vibes', cursive;
+  color: #6C4AB6;
+  position: absolute;
+  bottom: 40%;
+  left: 40%;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 77%;
+  bottom: 54%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 29%;
+  bottom: 45%;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.image1 {
+  width: 10%;
+}
+
+p {
+  font-family: 'Norican', cursive;
+  font-size: 2rem;
+  line-height: 3.2rem;
+}
+
+.pro {
+  position: absolute;
+  bottom: 34%;
+  left: 47%;
+  display: block;
+  font-family: 'Cookie', cursive;
+  font-size: 4rem;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pokemon {
+  width: 39%;
+  float: right;
+}
+
+.lol {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: inherit;
+}
+
+.hello {
+  font-size: 1rem;
+  margin-bottom: 0;
+  color: #EAF6F6;
+  padding: 20PX 0 20PX;
+}
+hr{
+  border:dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+
+
+
+
+.bottom-container {
+  margin-top: 40px;
+  background-color: #66BFBF;
+padding: 59px 0 20px;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+a{
+  color: #11999E;
+  font-family: 'Marcellus SC', serif;
+  margin: 10PX 20PX;
+  text-decoration: none;
+
+}
+
+A:HOVER{
+  COLOR:#EAF6F6;
+}
+.hello2{
+font-family: 'Marcellus SC', serif;
+}
+.hello3{
+  font-family: 'Marcellus SC', serif;
+
+}
+.hello4{
+font-family: 'Marcellus SC', serif;
+}
+
+
+
+
+
+
+
+
+.btn {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #2cb86d);
+  background-image: -moz-linear-gradient(top, #000000, #2cb86d);
+  background-image: -ms-linear-gradient(top, #000000, #2cb86d);
+  background-image: -o-linear-gradient(top, #000000, #2cb86d);
+  background-image: linear-gradient(to bottom, #000000, #2cb86d);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  text-shadow: 1px 1px 3px #1a1616;
+  -webkit-box-shadow: 2px 6px 6px #000000;
+  -moz-box-shadow: 2px 6px 6px #000000;
+  box-shadow: 2px 6px 6px #000000;
+  font-family: Georgia;
+  color: #05ffac;
+  font-size: 14px;
+  padding: 13px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1f00cf;
+  background-image: -webkit-linear-gradient(top, #1f00cf, #4ad934);
+  background-image: -moz-linear-gradient(top, #1f00cf, #4ad934);
+  background-image: -ms-linear-gradient(top, #1f00cf, #4ad934);
+  background-image: -o-linear-gradient(top, #1f00cf, #4ad934);
+  background-image: linear-gradient(to bottom, #1f00cf, #4ad934);
+  text-decoration: none;
+}
